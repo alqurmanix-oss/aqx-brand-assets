@@ -1,0 +1,18 @@
+:root {
+  --aqx-violet: #6336C9;
+  --aqx-violet-light: #8B5CF6;
+  --aqx-violet-deep: #392078;
+  --aqx-white: #FFFFFF;
+  --aqx-silver: #AEBBD0;
+  --aqx-slate: #64748B;
+  --aqx-sky: #38BDF8;
+  --aqx-blue: #2563EB;
+  --aqx-navy: #172554;
+  --aqx-page: #F8FAFF;
+  --aqx-surface: #FFFFFF;
+  --aqx-text: #1E1B2E;
+  --aqx-muted: #64748B;
+  --aqx-border: #E2E8F0;
+  --aqx-gradient-primary: linear-gradient(135deg, #8B5CF6 0%, #6336C9 55%, #392078 100%);
+  --aqx-gradient-accent: linear-gradient(90deg, #38BDF8 0%, #2563EB 100%);
+}
